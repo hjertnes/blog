@@ -1,0 +1,87 @@
+---
+url: /post/609d282a-9736-4e39-8718-359147da48d0
+date: 2017-11-03
+title: "What I got out of studing Philosophy."
+---
+
+I have always had a hard time explaining to people why they should study Philiosophy, I just think that it will do most people some good. Here are some of what I got out of the four years I spend completing a three year bachelor programme in Philosophy. 
+
+
+
+1. I know less than when I started; or rather I’m wiser, and certain of far fewer things than when I started
+
+  
+
+2. I have a solid foundational understanding of how and where the ideas that form modern society come from, and came to be.
+
+  
+
+3. When a text is difficult to understand, it can be because of multiple reasons
+
+	  
+
+- You don’t have the tools required to understand it
+
+	  
+
+- It is bad writing
+
+	  
+
+- What you are trying to read, are something at odds with or too complex to be elegantly put into words.
+
+  
+
+4. There are no obvious solutions; and the winning one is very often the least shitty solution; if there is a winning one.
+
+  
+
+5. Even a hard core atheist like myself can read and appreciate religious thinkers like Augustine. Because behind the religious rhetoric is just the same moral and being problems any person willing to open a philosophy book struggle with.
+
+  
+
+6. It is amazing how different it is what different people get out of the same text. Both in how they understand it, and what they think about it.
+
+  
+
+7. How you read is very different, depending on the text; sometimes you just need to power through without understanding everything, and then re-read it a million times; while other times is understanding every single sentence in relation to each other the proper strategy.
+
+  
+
+8. You need to put the Philosopher to the side, when you read a text. And you need to put what you know about the text and the philosopher to the side. If you want to get the most out of reading it.
+
+  
+
+9. Some books can give a literal headache. For me is it Tractatus Logico-Philosophicus.
+
+  
+
+10. Question everything, and accept nothing based on authority or tradition.
+
+  
+
+11. What you thought you meant is always what you mean, when you analyse it logically.
+
+  
+
+12. Logic is hard, but useful, up to a point.
+
+  
+
+13. Understanding different interpretations, even though you disagree, is useful.
+
+  
+
+14. Listen to the eccentric professors. 
+
+
+
+Half of what you get from a structured programme from a University is something you could do by yourself. Many universities have all their syllabuses available online, and you can probably find them in their book stores, if not. And if you read all of you have around half of it. 
+
+
+
+The other half is what you don’t get by yourself, plus the “if I don’t read this it will have consequences”. Because getting through the I don’t know how many thousands of pages was hard. 
+
+
+
+What you don’t learn by yourself is the tools and the discussions. When you go to lectures and seminars, you learn how one reads and studies philosophy and you also learn how to discuss the content of the same texts with fellow students. The former is necessary to get anything at all out of reading most philosophy, because there are more to it than skimming through the books. And the latter is important because it opens your eyes to how different people understand the same thing.

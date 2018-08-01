@@ -1,0 +1,11 @@
+---
+url: /post/f35806a3-9c5f-4496-91a1-ad30ae1057ed
+date: 2018-06-18
+title: "Everything on GitHub"
+---
+
+If you are a software developer, you probably have a lot of code laying around. Because you needed something or wanted to learn something. But having something that you can use and having something other people can use are two different things. Because you have to make sure it is at least kind of easy to install it, run it, configure it etc. 
+
+One thing I have focused on doing since the start of 2017 is to put as much as possible on GitHub. I've had a rule: either I start making money on it, or it goes up on GitHub. If it is something I coded on my spare time. 
+
+There are many reasons for it, but the two most important ones are: if I put it up on GitHub, I make sure that it is easy "enough" to install and get started with it, that means that I don't have to study the source code to figure out how it works between each time I use it. And it is awesome if someone else finds it either useful or can learn something from it. 

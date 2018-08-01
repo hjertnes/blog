@@ -1,0 +1,63 @@
+---
+url: /post/df9d23d6-6bb3-4b09-81de-65f4227f396c
+date: 2014-02-12
+title: "Working against a good tagging system in TaskPaper."
+---
+
+One of the biggest powers, or deepest holes in TaskPaper is it&#8217;s tags. You are not limited to one. I have been trying to refine everything against a more usable system than what I had thrown together when I wrote the [post][1] after I had used TaskPaper for a month. My current setup have six different tags, and a few others, that are only used to track different kinds of stuff for the future; like my [@book](https://micro.blog/book) tag, which I use to create lists in DayOne containing all the books I have read during a year.
+
+
+
+My current tag-setup is divided into two different categories, I have three tags for scheduling, and three tags for OmniFocus like contexts.
+
+
+
+## Scheduling.
+
+
+
+My scheduling tags are @next, [@today](https://micro.blog/today) and @tomorrow. One important note here is that nothing have anything close to a strict schedule. They are just a guiding principle; but I try to only schedule tasks that I actually intend to complete any given day.
+
+
+
+The [@today](https://micro.blog/today) tag, is the tag I set on all tasks I intend of hope to complete on any given day. While the [@tomorrow](https://micro.blog/tomorrow) tag is all the tags I intend to complete the the next day, and I just do a simple search and replace the every morning to move them from [@tomorrow](https://micro.blog/tomorrow) to @today. This is a simple hack, but it works.
+
+
+
+[@next](https://micro.blog/next) is the tag I use the most. This is more like a flag, than anything else. I go through all of the tasks in my main TaskPaper file, and just add [@next](https://micro.blog/next) to any task that I should get started on as soon as possible. That might be today, it might be in a week. The reason for using it is to have a tag to filter on when I schedule what to do today, or tomorrow.
+
+
+
+## Contexts.
+
+
+
+Contexts are probably on it&#8217;s own a very good reason to buy OmniFocus; I&#8217;m not the hardest context user on the planet. But, I like to use them on some stuff. Some people like to divide tasks into contexts like mac, iPhone, iPad, home, work etc. I don&#8217;t.
+
+
+
+I have three contexts: @home, [@university](https://micro.blog/university) and @hidden. The reason I don&#8217;t need or have ever needed contexts like computer, iPad or iPhone is that I always have at least one computer where I can do most of the tasks I need a computer to complete.
+
+
+
+I try to avoid using contexts, unless there are a very good reason for it. There are some kinds of tasks that isn&#8217;t that relevant if I&#8217;m not at campus, or at home. Like for example printing documents, I can&#8217;t do that at home, or anywhere except at the University. And I don&#8217;t need to see a lot of projects related to doing laundry or doing the dishes, when I&#8217;m not at home.
+
+
+
+Hidden is probably the only tag, that might be strange for some people. This just a tag I use to hide tasks(and projects) that I don&#8217;t need to see right now. I have a lot of tasks in my main file, that won&#8217;t be relevant in a few weeks. I use [@hidden](https://micro.blog/hidden) to hide them, until I need to see them.
+
+
+
+## Use one tag.
+
+
+
+One of the big problems with tags, is that you can use many of them, at once. After trying different systems over the years, I always stride to get away by only using one at the time. And I always live by the policy of every tag having a purpose. There have to be some kind of filtering purpose for using tags. Don&#8217;t start using tags before you need them. And don&#8217;t be afraid of re-factoring your tagging system when you need to.
+
+
+
+(#blog)
+
+
+
+ [1]: http://www.hjertnes.me/blog/-taskpaper-after-using-it-for-a-while

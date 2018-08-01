@@ -1,0 +1,19 @@
+---
+url: /post/666d89c7-f271-45b9-a875-fb68cce36dd3
+date: 2014-04-16
+title: "Reeder vs ReadKit"
+---
+
+The new version of Reeder for OS X just reached public beta. And it&#8217;s _great_. It lacks a few features that I really need. Like Instapaper. But that&#8217;s not big deal &#8211; for now.
+
+
+
+But for me, the big question is – will I buy it? I have been using ReadKit for about a year now. And I love it.
+
+
+
+I&#8217;ll guess the big question for both me and a lot of other RSS power users are: what will Reeder for OS X give us? I hope for a really hard competition between the two in the coming months. And I hope for some amazing features in both apps.
+
+
+
+(#blog)

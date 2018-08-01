@@ -1,0 +1,26 @@
+---
+url: /post/3872e454-9d8e-43b3-9068-077aa28a6299
+date: 2018-08-01
+title: "Clojure needs its Django / Rails moment."
+---
+
+I'm not a huge fan of Django and Rails, I don't think they are bad either, the languages they use are not a good fit for how I think any more. I also think they have not managed to integrate the whole web app moment in as well as they should.
+
+But that is a blog post for another time.
+
+Both frameworks are very important in the history of web development because they managed to turn a lot of difficult or complicated topics in a way that was very easy to deal with, in a way that felt very native to their respective programming languages.
+
+Having a proper way to deal with databases, database schema changes, login, and solid implementations of the MVC.
+
+The Clojure world might not be into the idea of frameworks, but neither was the Python world. Most of it outside Django are more about putting together various different libraries with your own code to get what Django would give you out of the box.
+
+A bare minimum solution of what Clojure would need is:
+
+- A solid way to write API' and the controller side of a server side rendered web page
+- A way to define how the database looks in code
+- A way to query the database you modelled in code.
+- A template language
+- A middleware system (to make it easy to make reusable component to deal with common stuff)
+- A login system that just works without any config, that you can configure if you need to.
+
+And all of this have to feel natural for a Clojure programmer.

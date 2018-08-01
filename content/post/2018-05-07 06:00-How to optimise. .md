@@ -1,0 +1,13 @@
+---
+url: /post/cb0c2f67-30f3-4467-866f-d09bbdd793c2
+date: 2018-05-07
+title: "How to optimise. "
+---
+
+The basic idea behind making something fast is to take what your program does now, and then figure out the easiest way for you computer to get there. Or the way I usually say it: how do we do X by doing the least?
+
+There are stuff that will always be slow like network operation, file system operations and input / output. For example only committing updates to the database when you have to is one way to optimise. Another is to figure out if you can run parts or all of it in parallel. And do it. 
+
+But the most important thing is that you use a profiler or a debugger to identify what parts are taking up the time and then try to make them faster. The way I usually deal with optimising is that I only start doing it after the functionality is done.  And then you optimise by shaving off a second here and there in the beginning until it's fast enough. 
+
+In some cases, though, where it being more important to be fast than everything else, you make it a policy to never commit changes before they don't make anything slower. Like the Safari team have. 

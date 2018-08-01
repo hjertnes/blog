@@ -1,0 +1,17 @@
+---
+url: /post/15b625fe-b729-4130-9c8e-44f96eea24d8
+date: 2018-04-27
+title: "On using the DOM API"
+---
+
+
+
+There are two different parts, when we are talking about coding a web browser. You have the language: JavaScript and you have the API: DOM. Most people are often using either their own or a third party library or set of library to work with the DOM. I do for example use Axios to deal with requests against RESTful API's because it is kind of cumbersome to do so directly. The other reason for doing this is to leave it to a third party library to deal with differences between browsers (this problem have for the most part gone away). 
+
+
+
+The DOM is designed by a committee, and it is designed to be as flexible as possible to make sure that all kinds of Web Applications can be developed. That means that the DOM is often not the easiest to use. This does not mean that the DOM sucks or anything like that. It just means that it is there to solve many different problems and use cases. And I believe that it is really good at what it attempts to do. This does not mean that front end developers should use the DOM api's all day or ignore them. 
+
+
+
+You should probably use libraries to deal with the DOM most of the time. While at the same time do some projects where you use it directly. So that you know how it works. 

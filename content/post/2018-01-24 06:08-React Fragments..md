@@ -1,0 +1,23 @@
+---
+url: /post/b6f3b90d-1c03-4949-b59b-791b36bf1f6b
+date: 2018-01-24
+title: "React Fragments."
+---
+
+As React have developed over the years, they have slowly removed redundant nodes from the HTML that React renders. For example, when I started something like this {this.props.value} would be wrapped with spans by React.
+
+
+
+One of the awesome additions to React 16 was fragments, I think it went past most of us, because we were too busy testing out the new ErrorHandling and performance improvements.
+
+
+
+Fragments solves a very pressing issue that most React developers will meet sooner or later. Every component only returns one root component. That means that you have to wrap a lot of stuff in unnecessary divs or spans to meet this requirement.
+
+
+
+You can now wrap anything that you previously wrapped in divs just because of &#8220;React Reasons&#8221;, in either <> and </> or <React.Fragment> and </React.Fragment>.
+
+
+
+The result is that you _can_ have just one root element, without adding unneeded nodes to the dom.

@@ -1,0 +1,16 @@
+---
+url: /post/12a07dc7-1868-43f6-a2fb-5d23d6f7902a
+date: 2018-07-03
+title: "Why I prefer primes to zooms."
+---
+
+You can either get a set of primes (fixed focal lengths) or one (or more) zooms to cover the same focal lengths. There are good and bad sides to both. The good thing about a zoom is that you carry less lenses and you don't have to switch them that often. The bad thing is that they are almost always slower, and are heavier very expensive. 
+
+I used to use a 24-70mm lens on my Canon Rebel. It was a f/2.8, aka very heavy. This was the kind of lens you can forget about using with one hand. I'm not getting another one for a number of reasons. 
+
+- I didn't use that many different focal lengths. 
+- I could get more or less the same thing with 3-4 primes
+- The primes would all of them be light enough for one handed use
+- The primes would be faster. 
+
+I always use my camera more, and bring it more places, if I use a small and light lens on it. And other people aren't always that fund of me walking around with huge lenses for a number of reasons. There are stuff I'll miss about not having a zoom, like more flexibility in terms of how far away / close you have to get. But I have always enjoyed small and light primes more.

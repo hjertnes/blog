@@ -1,0 +1,11 @@
+---
+url: /post/5a8813ec-ed86-4701-8890-a7f465016bc9
+date: 2018-04-03
+title: "How to get into a standing desk. "
+---
+
+I have used standing desks multiple times in my life. And I think they are awesome. Mostly because I do in general feel much better if I spend my day standing and typing instead of just sitting. It does not mean I stand all the time however. But I can say that, when I'm at the office I spend more time standing than sitting. 
+
+It was really easy to get back into it this time because I had surgery a while back, and it was more painful to sit than to stand. And when it was not uncomfortable to sit anymore I was kind of used to standing. So I just continued.
+
+But the way I have done it in the past have been to add a repeating reminder to my phone every hour when I usually work reminding me to stand. And just stand until my feed started to hurt and then sit down. Then I decreased the interval of the reminders until I could stand for more or less a whole day without it being uncomfortable. 

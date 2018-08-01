@@ -1,0 +1,39 @@
+---
+url: /post/bc4456b0-64d7-446a-a414-7a9481912170
+date: 2015-11-12
+title: "Daring Fireball"
+---
+
+[Alex Hern, writing for The Guardian][1]:
+
+
+
+> Mac users faced trouble with their apps overnight after the security certificate Apple uses to prevent piracy expired late on Wednesday. Applications downloaded from the Mac App Store were temporarily unavailable from 10pm UK time, when a security certificate expired, five years after its creation, with no replacement immediately available.
+
+    
+
+> Even once Apple fixed the error, issuing a new certificate for the apps (with an expiry date of April 2035, this time), users were still faced with problems. Those who could not connect to the internet couldn’t verify the new certificate, while those who had forgotten their password or couldn’t log in to iCloud for some other reason are also unable to use the downloaded apps until they can log in to the service. 
+
+
+
+I used to manage various SSL and other security certificates in previous jobs. And I used to have a calendar event around three monts before each of them had to be renewed to be sure that everything was renewed long before they expired.
+
+
+
+I think Gruber&#8217;s response is more or less perfect:
+
+
+
+> Inexcusable for a service that is absolutely essential to users and developers. 
+
+
+
+I have to re-download a bunch of apps because of this crap. Apple: get your shit together. This isn&#8217;t that hard, just use Calendar.app.
+
+
+
+(#blog)
+
+
+
+ [1]: http://www.theguardian.com/technology/2015/nov/12/apple-user-anger-mac-apps-break-security-certificate-lapse

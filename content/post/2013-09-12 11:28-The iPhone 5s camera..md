@@ -1,0 +1,43 @@
+---
+url: /post/456947b7-702c-4832-9aef-baade96a551d
+date: 2013-09-12
+title: "The iPhone 5s camera."
+---
+
+I follow most of the Apple news, but I don&#8217;t really write or care that much about most of it. The main reason is that most of the cutting edge technology today is not very important for me and they kind of work I am doing.
+
+
+
+But, the new camera and flash exited me quite a bit. I will not buy a 5s. I don&#8217;t upgrade my devices before they break.
+
+
+
+The key things about the new iPhone 5s&#8217;s camera is: &#8211; Larger image sensor &#8211; Larger aperture &#8211; Revolutionary flash
+
+
+
+I will not go into the details here. But I want to write about what I hope this camera gives us.
+
+
+
+The problem with almost all of the current phone cameras out there is that they only deliver decent pictures outside in sunlight. The outcome in most other situation is something noisy and close to useless.
+
+
+
+I&#8217;m not talking about useless for Facebook, Twitter or in IM. Most people might not think about this. But I assume that most people would like to print some of their picture or do something on a larger screen at some point.
+
+
+
+I do a lot of albums both as presents and for people I know. And I have also made quite a few presentations for bigger birthday celebrations through the years. And my experience is that most pictures taken with a phone (includes the iPhone 5) is usually useless when you print it. You will see that it is noticeable worse that what you would get out of a midrange point and shoot camera.
+
+
+
+I often feel bad for the people I see shooting all of their vacation pictures with a phone camera. All of the pictures my stepfather shot with a decent point and shoot and a SLR from the 80s and the pictures my grandfather shot with a decent point and shoot during my childhood will be miles ahead of what any phone have been able to shoot up to this day.
+
+
+
+So what I hope for in the 5s, is a camera that finally can preform close to a real camera. Not because I want to get rid of my DSLR; but I would like to be able to get a useable pictures from my phone every not and then.
+
+
+
+(#blog)

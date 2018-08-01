@@ -1,0 +1,15 @@
+---
+url: /post/a4ac1115-a8af-4ce4-9e92-73fe537e3e1e
+date: 2018-05-18
+title: "Dont use Git like a glorified Dropbox"
+---
+
+We have probably all done it a few times or a few times a day. Taken all the changes that aren't committed and given it the message "Stuff" and pushed it. But what is the point with a source code management if you just use it as a glorified Dropbox?
+
+I have a few rules I try to follow in order to avoid it:
+
+- Only one change per commit; if you changed a bug and refactored it because it was a mess, then it should be two commits.
+- Every commit should leave the repo in a working order
+- Use proper commit messages, that explain what you did
+
+The idea is to select what files should be included in the commit manually, and not just take everything; and then to the same for the lines in the diff. 

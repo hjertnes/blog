@@ -1,0 +1,55 @@
+---
+url: /post/d202aa5e-edc6-49f5-a52a-ad246c76e979
+date: 2016-11-29
+title: "The Apple USB-C Power Plugs."
+---
+
+<div class="kg-card-markdown">
+
+  <p>
+
+    Magsafe 1 & 2 have been <em>the</em> gold standard for as long as I have owned Apple laptops. And they became so, a year or two after I started lusting after a 12” PowerBook. I was a huge fan of the original design, less so the version 2, but I still think both of them were and is the best.
+
+  </p>
+
+  
+
+  <p>
+
+    I think more or less everyone agree that having a cable that disconnects when you are close to dragging your computer into the ground is superior to not having it. No matter if you prefer having a USB-C port or not.
+
+  </p>
+
+  
+
+  <p>
+
+    But there are still things about it that I like and don’t like. One thing that drive me nuts about the new Apple chargers is that I need to buy three different things to get what I am used to get when I buy an Apple Charger. I need to buy the brick, the USB-C cable and the extension cable. This is ridiculous. I had a full bag of various Apple boxes, only containing the different charger parts when I bought this computer. (I prefer to have three chargers, one in my computer bag, one at by desk at home and one at my desk at work).
+
+  </p>
+
+  
+
+  <p>
+
+    There are actually some good things about it too. But I just wish Apple could have a box containing all of it. The employee at my local Apple Premium Reseller spent 10 minutes locating the different boxes for a simple charger.
+
+  </p>
+
+  
+
+  <p>
+
+    My experience is that one thing break in every single charger after a couple of years, the plug that go into the computer. I really like how you can just replace that part when it breaks. This is cheaper and good for the environment.
+
+  </p>
+
+  
+
+  <p>
+
+    The general USB-C concept is good. You use the same port for everything. Charging, storage, displays etc. But it will be a painful period until we find out how many ports we need to have on our machines and until accessories are updated to use USB-C ports. Remember the days in the late 90s when we had one USB-A port on most computers?
+
+  </p>
+
+</div>

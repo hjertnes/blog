@@ -1,0 +1,15 @@
+---
+url: /post/58eed4a5-d732-44b1-9b08-7d2776c56a42
+date: 2015-10-21
+title: "The 1Password ‘leak’ is a storm in a teacup."
+---
+
+This is a storm in a teacup. Some of the data is exposed in the old version of their data format. All iCloud users use the new format, which solves it. And the kind of data that are exposed are not sensitive for most users.
+
+
+
+This is by the way the reason I trust 1Password, we always get a honest and straight to the point response when something is up. Like this one.
+
+
+
+(#blog)

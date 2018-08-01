@@ -1,0 +1,23 @@
+---
+url: /post/b6d83f70-4617-4a67-a268-11a2bf488f43
+date: 2015-08-11
+title: "HTC stored user fingerprints as image file in unencrypted folder | Technology | The Guardian"
+---
+
+This is **bad**.
+
+
+
+Okay, I have used finger print scanning technolohy on a few different devices over the year. And there are two good ways to do it, and a million bad ways. This is one of the bad ones.
+
+
+
+IBM / Lenovo used to(and probably still do) not store a image, but rather a check sum, to verify the finger print. The good thing about this technique is that the bad guys can&#8217;t do anything useful with the data, if they gain access. The negative is that you need a pretty good match to unlock your device. And the other thing I liked about their technology was that you slided you finger over the sensor, and didn&#8217;t place it, which means no-one can make a copy of it.
+
+
+
+Apple. They simply store the fingerprint on a secure element in phone. Where you just can compare what you got to what they got. In other words: your fingerprint isn&#8217;t in the cloud, in your backups and most important bad apps can&#8217;t make a copy.
+
+
+
+(#blog)

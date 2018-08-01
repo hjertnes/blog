@@ -1,0 +1,63 @@
+---
+url: /post/74432892-3c41-4d25-a506-1e72eb0a8886
+date: 2014-07-22
+title: "Retina iPad mini"
+---
+
+I finally upgraded my old, iPad 2, yesterday. This is something I should have done a long time ago.
+
+
+
+Let&#8217;s begin at the start.
+
+
+
+I tested the first iPad for a few days, when it came out. But I thought it was too slow and heavy to be worth it.
+
+
+
+But, I got the top of the line iPad, with 3G, when the second version came out. And I loved it. That device was my go to, and main computer for almost everything except for work and photography for that year.
+
+
+
+The iPad, combined with a keyboard was much lighter and flexible than my MacBook Pro. And iOS made it so easy to focus. I wrote a lot on that thing.
+
+
+
+Then I got a MacBook Air. And then I got an iPhone. And I haven&#8217;t used my iPad much since then. Except for a few times a month, and a couple of experiments.
+
+
+
+I was sold immediately when the first iPad mini was launched. But I didn&#8217;t upgrade. I was waiting. The first mini was more or less the same iPad I had, with a small screen. And the speed of that iPad wasn&#8217;t great.
+
+
+
+_Why now?_ The reason is simple enough. I had the money, and my Kindle Paperwhite died a few weeks ago.
+
+
+
+_Why the mini?_ My main problem with the big iPad is that it&#8217;s too close to MacBook Air. While it was too big for reading and writing on the couch. Caught in the middle; between my phone and laptop.
+
+
+
+I have been playing around with this thing for about 24 hours now. And I love it. This is the most comfortable writing experience on a non-keyboard device I have tried.
+
+
+
+It&#8217;s not hot like the MacBook; it&#8217;s not cramped like the iphone; and it&#8217;s not heavy like the iPad 2.
+
+
+
+The thing I love the most about this device, compared to the full sized one, is that I don&#8217;t feel the need for a keyboard. It&#8217;s weird. I never found any other comfortable way to write for more than two minutes on the full sized one. The keyboard case, was a must.
+
+
+
+I think this is the perfect mix. The best from both camps; the best from the iPhone and the iPad.
+
+
+
+You get the powerful iPad apps, on a device that feels as light and convenient as the iPhone.
+
+
+
+(#blog)

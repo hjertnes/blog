@@ -1,0 +1,21 @@
+---
+url: /post/a66610a6-646d-442d-87a0-701b2432a51a
+date: 2018-07-02
+title: "Priorities in Software Development"
+---
+
+There are many choices that are made during software development.
+
+Some want to make cool stuff faster, while other want small size or support "everything". Or stability. Some of these choices can work together, while others do not. 
+
+These choices depend on a lot of stuff. But most important they depend on the kind of product you want to build and who are going to use them. 
+
+For example, if you use React and modern web development tools like webpack, your web app's resources will be larger, and not support every browser on the market. But you will be able to iterate much faster and cooler stuff. But that will not work if a lot of your potential users are using old devices and or older browsers. 
+
+In some cases you might not want to make your whole solution rely on JavaScript, while other times you have to do that in order to make what you want to make. 
+
+It all comes down to what priorities you and your company have. 
+
+If I were to build something for schools or enterprise I'd probably build something using Python or C# where almost everything were handled by the web server, and the JavaScript would simply be a "added bonus". But if I were to build a really cool web app for individuals or smaller companies where it is more likely than not that they run a modern version of Chrome or Firefox, I'd probably build something entirely in JavaScript. 
+
+A web site on the other hand, like this one, is still something where I would not do too much in JavaScript, because most people don't spend a lot time there at a time. 

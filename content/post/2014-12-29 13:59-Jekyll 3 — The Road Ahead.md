@@ -1,0 +1,31 @@
+---
+url: /post/43dd55a8-c3fe-4597-a001-f6c8e0de7488
+date: 2014-12-29
+title: "Jekyll 3 — The Road Ahead"
+---
+
+> With Jekyll 3.0, I want to take Jekyll back to its roots: simplicity, extensibility, and speed. 
+
+
+
+I love Jekyll. And I think some of the new stuff that comes in Jekyll 3 is cool. For example, generating new posts with a simple command.
+
+
+
+But the thing I love the most about Jekyll, is how simple it is to work with it. It is one of the few systems where I can do real work without internet. That makes it ideal for when you work with a spotty, or without a connection.
+
+
+
+A file based system like Jekyll is great for generating web sites. Like I said, you can work with it, without a internet connection. You don&#8217;t even need a complicated setup for development or production. It also means you don&#8217;t need a big VPS to host it; any web server can serve static web pages.
+
+
+
+The speed of the site is one thing. But the thing I like even better is that I don&#8217;t need to fiddle with a web-interface or app. I can just write in Sublime Text, and use git to update my site.
+
+
+
+Let&#8217;s get back to 3.0; they are fixing a lot of issues in the upcoming 3.0 release. They are making it easier to create new blog posts, and that is good. Jekyll is not for everyone, but I think it will be something for even more people in the new release.
+
+
+
+(#blog)

@@ -1,0 +1,20 @@
+---
+url: /post/b7edcabe-d037-42b4-abb7-3f333dd67b5c
+date: 2018-08-03
+title: "Cloud standards"
+---
+
+I have never written anything of substance for any of the server-less stuff that amazon or microsoft are doing. Or I have used some of the services here and there, but I have never gone "all the way".
+
+One of the reasons I have never gone in on any of them is that all the stuff are proprietary. If I want to move I have to re-write a significant amount of code. And it also requires a lot of manual configuration for it to work.
+
+What I would like to see is standards. Or at least a standard compliant way to use them. Because a lot of the features exist across the various services; old shit, new wrapping.
+
+I don't care that much about how, but what I want is some kind of configuration or manifest file plus some code that I can deploy.
+
+Just to tell it what kind of services I need, how I want them to be configured etc.
+
+And if I want to change from Amazon to Microsoft it would just be to update DNS and upload the shit.
+
+Also, if this was done, it would also be possible to run your own version of it, and get some real developer environments locally.
+

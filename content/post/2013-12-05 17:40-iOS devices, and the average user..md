@@ -1,0 +1,27 @@
+---
+url: /post/302a0051-55f6-407e-9513-baa050c300b9
+date: 2013-12-05
+title: "iOS devices, and the average user."
+---
+
+There are a number of people in my family that now own iPad&#8217;s and iPhone&#8217;s. Some of them, like my mother got the iPad as her first computer, and then she got an iPhone soon after. She never cared for, or about computers prior to surfing on my iPad.
+
+
+
+And there are also people like my grandfather, he used a computer at work for the last 15 years of his career. He have owned a few regular computers as well. But he didn&#8217;t really use them that much. They were used to write a few e-mails a month, paying the bills and sometimes surfing the web or writing letters; you know the kind people send in the mail. He got an iPad last year, and both him and my grandmother(that didn&#8217;t have any experience at all (read: never used any kind of computer)) could start using it without any help; after I configured the WiFi and e-mail.
+
+
+
+This is just amazing. One things is how easy it is to use the iOS devices. That is great, the fact that everything from toddlers to grandparents can pick up an iOS device and use them without much, if any help.
+
+
+
+This is not the key point for me. I have set up a lot, and I mean a lot of computers for relatives during the last 10 years. But there is nothing that have been that available to people like the iPad or the iPhone have been. The important thing Apple did with the iPad was to make something everyone want to use.
+
+
+
+They are not excited about the device, they are excited to use the device.
+
+
+
+(#blog)

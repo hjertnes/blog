@@ -1,0 +1,59 @@
+---
+url: /post/dff324d3-dcdc-412b-9cd8-65a67e3325b1
+date: 2013-12-23
+title: "My new GTD system – TaskPaper."
+---
+
+This is the third draft, and I really hope it is the last one.
+
+
+
+I have used a lot of different GTD and task management apps. The four systems that have been sticking longest are Things, Remember The Milk, OmniFocus. I also used a few custom text file based systems in my Linux and Unix days.
+
+
+
+My current GTD system worked great for the last two years, and the systems before that lated about the same length. But my needs changed with me shifting away from doing software development and onto being a full-time student, and doing a lot of writing.
+
+
+
+I used to have a capture method that was all about going straight into digital. I switched over to my mac, or picked up my phone when I needed to add something to either OmniFocus, RTM or Things. But I stopped doing this. It was must simpler to just write it down in a pocket sized notebook.
+
+
+
+Anyway.
+
+
+
+Today, I did the damn thing. I moved everything out of OmniFocus and into TaskPaper and things. I keep everything that don’t have a due date, or is a repeating task in TaskPaper. And that is about 99% of what I do. And the rest is in Reminders, for now. I might change it later.
+
+
+
+**Why TaskPaper?** There was a few things that intrigued me about TaskPaper. It is a very flexible system that isn’t anything more than plain text. I can combine tasks and regular text in the same document. And I can manage it all from anything that can read and write to a simple text file.
+
+
+
+TaskPaper is similar to OmniFocus in one way, it is very flexible when it comes to sub-projects and tasks. Something I am a big user of. This is also one thing most GTD solutions is terrible at.
+
+
+
+I can’t use anything that is designed to have X levels of projects or tasks. And I can’t use something that isn’t designed to handle everything from two active to 200 active.
+
+
+
+Anyway. TaskPaper is the most flexible, simplest and the most effective way to add and process tasks that I have seen to this day.
+
+
+
+I’m not 100% sure how this will go. But it is exciting to try something new. And I’ll post a real review of TaskPaper, when I have been using it for a while.
+
+
+
+Check out TaskPaper [here][1]
+
+
+
+(#blog)
+
+
+
+ [1]: http://www.hogbaysoftware.com/products/taskpaper

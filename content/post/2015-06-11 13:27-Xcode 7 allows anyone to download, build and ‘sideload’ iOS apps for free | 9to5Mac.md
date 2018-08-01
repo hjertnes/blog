@@ -1,0 +1,11 @@
+---
+url: /post/412c7efc-bb6c-4e39-8570-59a3d1df6ca5
+date: 2015-06-11
+title: "Xcode 7 allows anyone to download, build and ‘sideload’ iOS apps for free | 9to5Mac"
+---
+
+> This is somewhat similar to how Android allows users to sideload apps from unknown sources, although its a bit more complicated as sideloading requires a physical connection and a Mac running Xcode to build the apps. As it’s not really meant for this purpose (its main purpose is for developers to test their own software on real hardware), more technical knowledge is needed to actually sideload something than with the Android flow. 
+
+
+
+(#blog)
