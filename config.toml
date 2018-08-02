@@ -2,7 +2,7 @@ baseURL = "https://hjertnes.blog/"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Hjertnes.blog"
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableEmoji = true
 theme = "even"
 
