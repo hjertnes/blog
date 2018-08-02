@@ -98,5 +98,3 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     timeagoLocalesJS = '<script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.locales.min.js" integrity="sha256-ZwofwC1Lf/faQCzN7nZtfijVV6hSwxjQMwXL4gn9qU8=" crossorigin="anonymous"></script>'
 
 
-[build.environment]
-    TZ = "Europe/Oslo"
