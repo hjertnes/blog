@@ -1,5 +1,6 @@
 ---
 url: /uses
+type: "page"
 ---
 
 # Uses

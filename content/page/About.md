@@ -1,5 +1,6 @@
 ---
 url: /about
+type: "page"
 ---
 
 # About

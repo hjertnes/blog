@@ -1,5 +1,6 @@
 ---
 url: /contact
+type: "page"
 ---
 
 # Contact

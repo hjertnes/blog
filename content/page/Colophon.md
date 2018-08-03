@@ -1,5 +1,6 @@
 ---
 url: /colophon
+type: "page"
 ---
 
 # Colophon

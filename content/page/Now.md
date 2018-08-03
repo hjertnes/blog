@@ -1,5 +1,6 @@
 ---
 url: /now
+type: "page"
 ---
 
 # Now
