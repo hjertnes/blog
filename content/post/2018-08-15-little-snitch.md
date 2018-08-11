@@ -1,0 +1,12 @@
+---
+date: 2018-08-15T08:00:00+02:00
+title: "Little Snitch"
+---
+
+Little snitch is one of those annoying apps that I wish did not have to run on my mac. The elevator pitch is that it is an app that keeps track of all the programs on your mac that use the internet. Mine is set up to block anything that is not signed using Apple developer certs.
+
+You can either set it up to block everything until you approve it, or to let most of it go through(if it is signed) and then deal with it later.
+
+Their app makes it really easy to manage it all, and deal with stuff that should be approved. If you like me are a little bit worried about all the crap that might be using your internet connection, it might be worth the investment.
+
+I have used apps like this in the past, but this is the least anonying one I have found. Most of them drive me nuts, but this one are designed in a way that makes it as little annoying as possible.
