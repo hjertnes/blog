@@ -26,7 +26,7 @@
       </span>
       <span class="archive-post-title">
         <a href="{{ $element.URL }}" class="archive-post-link">
-          {{ if eq .Title "" }} #  {{ else }} {{ .Title }} {{ end }}
+            {{ if eq .Title "" }} {{.Content}}  {{ else }} {{ .Title }} {{ end }}
         </a>
       </span>
     </div>
