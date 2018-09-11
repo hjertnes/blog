@@ -8,8 +8,7 @@ type: "page"
 
 This page is a short summary of what I'm doing now.
 
-- Finishing my role as CTO at Wide Assessment during the month of August.
-- Starting as a developer at Sbanken the 1st of September
-- Writing Clojure.
-- Writing twice at week at The Ink Smudge, and at least five times a week here. 
-- Hanging out with my dogs and fiancè. 
+- Working as a developer for Sbanken
+- Hanging out with my girlfriend Ingri and my dog Luna
+- Other than that: taking as many pictures as possible, reading as much as possible, writing as much as possible.
+- And I spend too much time messing with my Emacs config and playing with Clojure
