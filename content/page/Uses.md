@@ -161,41 +161,41 @@ I have gone back and forth on this list too many times alreday. This is a list o
 - iBooks. I usually buy books from Amazon, because I want to have them available more places, but if I sideload ebooks or audiobooks I always go for iBooks. 
 - Kindle. My go to e-book store and app. 
 - Dash. Is a app for reading programming documentation. Great for when I want to read Clojure docs on the train. 
-- OmniFocus
-- Sunlit
-- Safari
-- Messages
-- Lifesum
-- Notes
-- Micro.blog
-- Day One
-- Cardiogram
-- HeartWatch
-- Health Mate
-- Health
-- CardioBot
-- Sleep++
-- Exist
-- Activity
-- Calendar
-- Calculator
-- Wallet
-- Find iPhone
+- OmniFocus. My current go to task manager, with the recent move from contexts to tags made it a lot more useable for me.
+- Sunlit. A great photo focused view into Micro.blog
+- Safari. You don't have a lot of options on iOS, either Safari or nothing. I actually like Safari though. 
+- Me.essages. I use messages a lot, the basics are great, but all the stuff (like stickers) they have added to it is kind of weird.
+- Lifesum. When I get into food tracking I use the hell out of this app, currenlty only use it for keeping track of my weight. 
+- Notes. A lot better than it used to be, I'm not a fan of any of the notes apps at the moment. But Notes.app works well enough. 
+- Micro.blog. My only social network. 
+- Day One. If you want journaling as an app, Day One is your best pick. 
+- Cardiogram. I really like this app for looking at helth mertrics, both for looking at changes week by week and how I am compared to everyone else that use the app.
+- HeartWatch. Another app for looking at health metrics, this one looks at your health data and makes it easy to see some key metrics and how things are going. 
+- Health Mate. I have a Nokia Wireless "smart" Weight, this is the app I use to sync data from it into Health. 
+- Health. The Apple Health Data database. I use a lot of stuff that use this database, but I almost never go in there myself.
+- CardioBot. Very similar to Heartwatch.
+- Sleep++. My current sleep tracker. 
+- Exist. If you want to get interesting insights out of your various "data" I'd give this app a shot. I love it. 
+- Activity. The Achievements in this app is a important factor for me actually trying to get in shape. 
+- Calendar. I'm not sure why I have this installed. 
+- Calculator. 
+- Wallet. 
+- Find iPhone.
 - Camera
 - Phone
-- PasientSky
-- 180.no
-- 1Password
-- Digipost
-- LOFavør
-- Swarm
-- 1BlockerX
-- Watch
+- PasientSky. My doctors app thing, I keep this installed to avoid having to talk to them on the phon
+- 180.no. I love this thing, they have a integration that shows me when telemarketers are calling me. 
+- 1Password. Needs no explaination. The best password manager available. 
+- Digipost. A secure "mail" thing we use here in Norway.
+- LOFavør. An App for managing the various "stuff" I get with my union membership. 
+- Swarm. I use it with Exsit to track locations. 
+- 1BlockerX. I use it to block newssites. 
+- Watch. 
 - App Store
 - TestFlight
-- Signal
-- Æ
-- Teroriappen
+- Signal. Secure messaging service, I almost never use it
+- Æ. 
+- Teoriappen
 - Photos
 - PostNord
 - Sporing
