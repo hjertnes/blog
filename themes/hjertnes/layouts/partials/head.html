@@ -1,0 +1,7 @@
+<link rel="author" href="/humans.txt" />
+<link href="https://micro.blog/hjertnes" rel="me" />
+<meta name="author" content="{{ if .Params.author }}{{ .Params.author | safeHTML }}{{ else }}{{ .Site.Author.name | safeHTML }}{{ end }}" />
+<meta name="generator" content="Hugo {{ .Hugo.Version }}" />
+<link rel="canonical" href="{{ .Permalink }}" />
+    <link href="https://hjertnes.blog/post/index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+<link href="https://hjertnes.blog/post/index.xml" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />

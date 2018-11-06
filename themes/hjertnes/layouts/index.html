@@ -1,0 +1,11 @@
+{{ define "content" }}
+  {{ $paginator := .Paginate (where .Pages "Section" "post") }}
+  <section id="posts" class="posts">
+  {{ range $paginator.Pages }}
+  {{ .Render "summary" }}
+  {{ end }}
+  </section>
+  <nav class="pagination">
+{{ template "_internal/pagination.html" . }}
+  </nav>
+{{ end }}
