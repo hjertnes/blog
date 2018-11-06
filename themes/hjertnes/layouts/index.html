@@ -1,5 +1,5 @@
 {{ define "content" }}
-  {{ $paginator := .Paginate (where .Pages "Section" "post") }}
+  {{ $paginator := .Paginate (where .Pages.ByDate.Reverse "Section" "post") }}
   <section id="posts" class="posts">
   {{ range $paginator.Pages }}
   {{ .Render "summary" }}
