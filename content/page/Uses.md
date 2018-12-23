@@ -12,60 +12,51 @@ This page is a short summary of all the important stuff I use. The idea is that 
 ## Hardware
 
 
-
-  * MacBook Pro 2016, without TouchBar; 16GB of RAM; 512 GB SSD. Space gray. _I hate how unreliable the keyboard is, and it drives me nuts that it lacks a SD slot, other than that a pretty great machine. I do almost everything on this or my ThinkPad_
-
-  * iPhone 8 Plus; 64 GB; Space Grey, with a red Apple Silicone Case. _I went with this one instead of a X because I didn&#8217;t have the time to wait for it. There is not much to say about it, except for that it is like the 6s and 7 a improve ment of the predesessor. Everything is like you except them to be, and everything works like you expect._
-
-  * Apple Magic Keyboard / Magic Trackpad. One at my office and one at my home office. _The trackpad and keyboard combo is great; probably not the best. But it works much better than the built in keyboard on my MacBook. I have one of them in a canopy for if I need to bring it everywhere._
-
-  * LG 27&#8243; 4K USB-C Screens; one at home and one at work. _The screen is great, but not fantastic. It looks great and screen over USB-C is great. Charging and screen connection over the same cable is my favourite part, except for the resolution. The software / firmware built into the screen is not the best. But it is honestly the best screen available until Apple gets back into the screen game._
-
-  * Nikon FM analog film camera; with a 50mm Series 8 F/1.8 and a 24mm F/2.8; I usually shoot black and white Ilford films. _I love this camera, nothing fancy, just the basics. Easy to use and reliable. Love the 50mm, but I think the 24 is a little bit heavy. But I love it for when I need a wide angle lens._
-
-  * Fujifilm X-Pro 2. 8mm f/2.8, 35mm f/2, 50mm f/2. I shoot raw. I use 16GB cards at home and 64GB cards when I travel. _My favorite digital camera this far. Having physical dials for the basics (like my FM) is awesome. And makes it much easier to use it. This is the first time I&#8217;m not looking for other cameras, because I have the best digital range finder on the market._
-  * Nokia Smart Scale. _I bought the most expensive one, because the difference was not that big. It was a pain in the ass to set up with multiple users. But when it works it works perfectly. Step on it and it shows up in the correct users profile._
-  * Apple Watch Series 1, space grey, red sports band. _It have become a little bit slow. But I still love it. 99% of what I use it for is fitness tracking and notifications, and it&#8217;s perfect for that._ 
-  * ThinkPad x230, 16GB RAM, 256GB disk, Arch Linux running i3; previously used XMonad. _I love this little machine. I often call it for my iPad with useful software (emacs) or my Emacs Typewriter. I mostly just use it to browser and type into emacs, and it&#8217;s great for that. The keyboard is freaking awesome._
-  * Plustek Opticfilm 8100. _This is a dedicated scanner for film and slides. I use it to scan my 35mm film, when I have gotten them developed. I wish the process wasn&#8217;t as time consuming, but this scanner makes it a little bit better, compared to a flat bed._
-  * Some Canon flatbed scanner. _I don&#8217;t know what it&#8217;s called or anything like that. It was cheap, and it is only useful for document scanning. I got it because I had to scan some document to get into the University of Bergen, but didn&#8217;t want to walk through to the other side of the city to scan them. So I bought the first scanner I could find._ 
+- MacBook Pro 13" without Touch Bar; the 2016 model, with 16GB of memory and 512 SSD. _Great machine, but I fucking hate the keyboard_
+- ThinkPad x230, 12"; 256 SSD and 16GB ram; runs Arch Linux and i3. 
+- AlpaSmart Neo2; my typewriter. 
+- Happy Hacking Keyboard 2; I have one at home and at work.
+- Microsoft Sculpt Ergonomic Mouse; have one at work and one at home
+- Apple Magic Trackpad. 
+- LG 4K 27" USB-C screen. 
+- iPhone 8 Plus, with a Apple Silicone case. 
+- Apple Watch 44mm Space Gray with sports loop. 
+- AirPods on the go
+- Audio Technica ATH-M50x at work
+- Analog camera: Nikon FM, with a 50mm F1.8
+- Digital: Fujifilm X-Pro 2. 23/35/50mm F2, and 8mm f2.8. I have a pile of 8GB memory cards I use with it. 
+- Nokia Smart Scale.
+- PlusTec Opticfilm 8100 negative scanner
+- Some random Canon flatbed scanner. 
 
 
 
 ## Bags
 
-
-
-  * [Tom Bihn – Pilot][1]. _The bag I use every single day. It&#8217;s great, like every Tom Bhin product. It has enough room for my laptop, some kables, a few notebooks, some pens and a camera. But not enough room for bringing too much._
+- Tom Bihn Pilot
+- Two Lowepro camera bags.
 
 
 
 ## Coffee
 
-  * V60 for pour over coffee. _This is my go to brewing method these days. Simple, easy to use._
-  * Aeropress for Espresso like drinks _My go to if I want to use a little bit more time, and want a espresso like drinkj_
-  * Bialetti for Espresso like drinks _My favourite if, I want an espresso like drink. Easy to use, but a bitch to clean._
-  * Contigo To go coffee mug. _Great mug, but I wish it didn&#8217;t hold the heat as well._
+  * Moccamaster
+  * Contigo To go coffee mug._
 
 
 ## Pen and paper stuff
 
 
 
-  * Lamy 2000 Medium Nib _Great pen, with a lot of ink capacity. My first fancy pen_
-  * Pilot Vanishing Point Broad Nib _Good pen, a highly constrained pen, but what makes it great is that it is reliable and retractable. But you should only get one if you need a pen that don&#8217;t require uncapping_
-  * Pilot Metal Falcon Broad flex nib. _My favourite pen at the moment. Use a lot of ink. Fun to write and draw with, because of the flex nib_
-  * Travelers Notebook with lined refills _Great notebook system that can become exactly what you need_
-  * Leuchtturm1917 A5 Bullet Journal \* My favourite notebook for keeping track of notes and stuff to do.\**
-  * Nock.co Hightower _Great pen case, fits three pens and a few Field Notes sized notebooks_
-  * Nock.co &#8220;field notes sized&#8221; notebooks. _Love them, dot grid, like Field Notes with good paper_
+  * Lamy 2000 Medium Nib
+  * Pilot Vanishing Point
   * Golden Bear Pencils
   * Classroom Friendly Sharpener.
   * Pilot Iroshizuku inks
-
-
-
-If you were wondering, I left inks out on purpose.
+  * Nock Co Hightower, Pencil pouch, and Index cards.
+  - Field Notes
+  - Travelers Notebook with lined refills
+  - Field Notes Bellroy case.
 
 
 
@@ -73,7 +64,6 @@ If you were wondering, I left inks out on purpose.
 
   * Github. _Awesome Git hosting_
   * Linode virtual servers. _Great host, no bull shit, not fancy, but they do exactly what it says on the tin_
-  * Slack. _Sigh. Their apps are shit, but the rest is fine. I just wish they made it easier to manage many teams_
   * 1Password. _The best password management solution I know about. Both from a security and UX stand point. Awesome for solo and team use_
   * Pinboard.in _The best bookmarking servie ever, I use it for bookmarks
   * Instapaper.
@@ -150,70 +140,51 @@ If you were wondering, I left inks out on purpose.
 
 ## iOS Apps
 
-I have gone back and forth on this list too many times alreday. This is a list of all the apps I have installed on my phone. If it is there, it is on this list. Each app will have a short or longer description of what I use it for and why. 
+This is a list of the apps on my phone, that I _use_.  
 
-- Overcast. My go to podcasting app. I have completly stopped looking for something better the day Overcast launched. It is the only podcasting app I have been happy with year after year after year.
-- Oak. My current meditation app, even though I have not gotten myself to meditate in months. 
-- Sbanken. My banking app.
-- Min sparing. The savings app from my Bank. 
-- Replete. A ClojureScript repl, for when I sit somewhere and want to test out some stuff.
-- Spotify. My go to music streaming app for years. It is the one I hate the least. 
-- iBooks. I usually buy books from Amazon, because I want to have them available more places, but if I sideload ebooks or audiobooks I always go for iBooks. 
-- Kindle. My go to e-book store and app. 
-- Dash. Is a app for reading programming documentation. Great for when I want to read Clojure docs on the train. 
-- OmniFocus. My current go to task manager, with the recent move from contexts to tags made it a lot more useable for me.
-- Sunlit. A great photo focused view into Micro.blog
-- Safari. You don't have a lot of options on iOS, either Safari or nothing. I actually like Safari though. 
-- Me.essages. I use messages a lot, the basics are great, but all the stuff (like stickers) they have added to it is kind of weird.
-- Lifesum. When I get into food tracking I use the hell out of this app, currenlty only use it for keeping track of my weight. 
-- Notes. A lot better than it used to be, I'm not a fan of any of the notes apps at the moment. But Notes.app works well enough. 
-- Micro.blog. My only social network. 
-- Day One. If you want journaling as an app, Day One is your best pick. 
-- Cardiogram. I really like this app for looking at helth mertrics, both for looking at changes week by week and how I am compared to everyone else that use the app.
-- HeartWatch. Another app for looking at health metrics, this one looks at your health data and makes it easy to see some key metrics and how things are going. 
-- Health Mate. I have a Nokia Wireless "smart" Weight, this is the app I use to sync data from it into Health. 
-- Health. The Apple Health Data database. I use a lot of stuff that use this database, but I almost never go in there myself.
-- CardioBot. Very similar to Heartwatch.
-- Sleep++. My current sleep tracker. 
-- Exist. If you want to get interesting insights out of your various "data" I'd give this app a shot. I love it. 
-- Activity. The Achievements in this app is a important factor for me actually trying to get in shape. 
-- Calendar. I'm not sure why I have this installed. 
-- Calculator. 
-- Wallet. 
-- Find iPhone.
-- Camera
-- Phone
-- PasientSky. My doctors app thing, I keep this installed to avoid having to talk to them on the phon
-- 180.no. I love this thing, they have a integration that shows me when telemarketers are calling me. 
-- 1Password. Needs no explaination. The best password manager available. 
-- Digipost. A secure "mail" thing we use here in Norway.
-- LOFavør. An App for managing the various "stuff" I get with my union membership. 
-- Swarm. I use it with Exsit to track locations. 
-- 1BlockerX. I use it to block newssites. 
-- Watch. 
-- App Store
-- TestFlight
-- Signal. Secure messaging service, I almost never use it
-- Æ. 
-- Teoriappen
-- Photos
-- PostNord
-- Sporing
-- NSB
-- Settings
-- Apollo
-- Coop medlem
-- Skyss Reise
-- Vipps
-- Find Friends
-- Spinn
-- Clock
-- TextExpander
-- Music
-- Tuner
+- Overcast
+- iBooks
 - Audible
-
-
-
- [1]: https://www.tombihn.com/products/pilot?variant=23011967559
+- Spotify
+- Music
+- Kindle
+- Dash
+- Instapaper
+- DayOne
+- Messages
+- Safari
+- Sbanken
+- Working Copy
+- Soulver
+- Unread
+- Micro.blog
+- Lightroom
+- Photos
+- 1Password
+- NSB
+- Keybase
+- Edit
+- Drafts
+- Due
+- Vipps
+- Spinn
+- Find my friends
+- Slack
+- Duolingo
+- Tiime
+- My Lisp
+- Scriptable
+- Pythoninsta
+- iSH
+- Blink
+- Replete
+- Shortcuts
+- Vekt
+- Activity
+- Exist
+- Nokia Health Mate
+- Cardiogram
+- Lifesum
+- AutoSleep
+- 1Blocker X
 
