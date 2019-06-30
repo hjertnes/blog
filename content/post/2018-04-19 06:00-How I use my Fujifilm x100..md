@@ -1,9 +1,0 @@
----
-url: /post/fc99e27b-e26d-4ae0-9d7a-d8e4bfe5fc2d
-date: 2018-04-19
-title: "How I use my Fujifilm x100."
----
-
-I got my X100T when I was a Canon shooter. And then a year later it died, and I replaced it with a X-Pro 2. The result was that I did not use the X100 that much. Mainly because I prefer the X-Pro in more or less every way. 
-
-Then I started to use the X100 again. I just leave it in the office, with batteries and a 16GB card. To take snapshots. For, you know all the times you want to take a picture, but the big camera is somewhere else. 

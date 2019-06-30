@@ -1,11 +1,8 @@
-{{ define "content" }}
-  {{ $paginator := .Paginate (where .Pages.ByDate.Reverse "Section" "post") }}
-  <section id="posts" class="posts">
-  {{ range $paginator.Pages }}
-  {{ .Render "summary" }}
-  {{ end }}
-  </section>
-  <nav class="pagination">
-{{ template "_internal/pagination.html" . }}
-  </nav>
-{{ end }}
+{{ partial "header.html" . }}
+	<main>
+		{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
+		{{ range $paginator.Pages }}
+			{{ partial "summary.html" . }}
+		{{ end }}
+		{{ partial "pagination.html" . }}
+	</main>

@@ -1,8 +1,0 @@
----
-date: 2018-09-28T08:00:00+02:00
-title: "New iPhones"
----
-
-My iPhone 8 Plus still feels very new and fast, after about a year of use. That got to be the first time. In the past I have told myself that I don't need a new phone. This time I'm not that interested in the new stuff. 
-
-When I looked at the X, Xs, Xs Max and the Xr I thought: this is kind of like with the MacBook Air when Apple kept it up to date. I could get the fancy "Pro" model, but the cheapest is probably good enough. In other words, I'd probably get a new 8 Plus if this one broke. 

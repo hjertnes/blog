@@ -1,19 +1,19 @@
-<h1>
-  <a href="{{ "/" | relLangURL }}" class="logo">
-    {{- if .Site.Params.logoTitle -}}
-      {{ .Site.Params.logoTitle }}
-    {{- else -}}
-      {{ .Site.Title }}
-    {{- end -}}
-  </a>
-</h1>
-
-<nav class="site-navbar">
-  <ul id="menu" class="menu">
-    {{ range .Site.Menus.main -}}
-      <li class="menu-item">
-        <a class="menu-item-link" href="{{ .URL | safeURL }}">{{ .Name }}</a>
-      </li>
-    {{- end }}
-  </ul>
-</nav>
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>{{ .Title }}</title>
+	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+	<link rel="alternate" type="application/rss+xml" title="Hjertnes.blog RSS Feed" href="https://feedpress.me/hjertnes">
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
+	{{ hugo.Generator }}
+</head>
+<body>
+    <header>
+    <a href="{{ .Site.BaseURL }}">
+      <h1>{{ .Site.Title }}</h1>
+    </a>
+</header>

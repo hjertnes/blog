@@ -1,0 +1,108 @@
+:root {
+    --blue: #4302F4;
+    --purple: #800080;
+    --yellow: #FFB700;
+    --greywhite: #F2F2F2;
+    --grey: #a1a1a1;
+    --white: #FEFEFE;
+    --pink: #ef077b;
+}
+img{
+    max-width: 100%;
+}
+#___gatsby{
+    min-height: 100vh;
+    max-width: 100vw;
+}
+html{
+    font-family: Impact, sans-serif;
+}
+ul {
+    margin: 0;
+    list-style-type: none;
+}
+ul li {
+  text-indent: -5px;
+}
+ul li:before {
+  content: "— ";
+  text-indent: -5px;
+}
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+nav{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+nav a{
+    font-size: 20px;
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+    background-color: var(--pink);
+    border-radius: 5px;
+    border: 5px solid var(--white);
+    font-weight: 600;
+}
+nav a:hover{
+    border-color: var(--pink);
+}
+nav a {
+    color: var(--white);
+}
+a:hover.active{
+    border-color: var(--purple);
+}
+.active{
+    background-color: unset;
+}
+article h2 {
+    font-size: large;
+    color: var(--grey);
+}
+header a h1{
+    color: var(--white);
+    text-transform: uppercase;
+}
+body {
+    max-width: 40em;
+    font-size: 1em;
+    background-color: var(--purple);
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+article > div {
+    font-family: 'Source Code Pro', monospace;
+}
+article{
+    margin: 25px 25px 25px 25px;
+    padding: 10px 10px 10px 10px;
+    width: 90%;
+    background-color: var(--greywhite);
+    border: 4px solid var(--grey);
+    border-radius: 10px;
+    box-shadow: var(--yellow) 10px 8px 0px 0px;
+}
+a {
+    text-decoration: none;
+}
+article h1 a {
+    color: var(--yellow);
+}
+article a:link, article a:visited, article a:hover, article a:active {
+    border-bottom: 2px solid var(--purple);
+    font-weight: 700;
+    color: var(--blue);
+}
