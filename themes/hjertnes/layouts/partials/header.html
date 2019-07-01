@@ -17,12 +17,8 @@
       <h1>{{ .Site.Title }}</h1>
     </a>
     </header>
-    <nav  className="menu">
-      <a href="/" class="menuItem">Home</a>
-      <a href="https://wiki.hjertnes.blog/about" class="menuItem">About</a>
-      <a href="https://wiki.hjertnes.blog/contact/" class="menuItem">Contact</a>
-      <a href="https://wiki.hjertnes.blog/now/" class="menuItem">Now</a>
-      <a href="https://wiki.hjertnes.blog/uses/" class="menuItem">Uses</a>
-      <a href="https://wiki.hjertnes.blog/" class="menuItem">Wiki</a>
-      <a href="/archive/" class="menuItem">Archive</a>      
+    <nav class="menu">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" class="menuItem"> {{ .Title }} </a>
+      {{ end }}
     </nav>

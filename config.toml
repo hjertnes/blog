@@ -3,3 +3,36 @@ title = "hjertnes.blog"
 theme = "hjertnes"
 baseUrl = "https://hjertnes.blog/"
 rssLimit = 100
+[menu]
+	[[menu.main]]
+		identifier = "1"
+		title = "Home"
+		url = "/"
+	[[menu.main]]
+		identifier = "2"
+		title = "About"
+		url = "https://wiki.hjertnes.blog/about/"
+	[[menu.main]]
+		identifier = "3"
+		title = "Contact"
+		url = "https://wiki.hjertnes.blog/contact/"
+	[[menu.main]]
+		identifier = "4"
+		title = "Now"
+		url = "https://wiki.hjertnes.blog/now/"
+	[[menu.main]]
+		identifier = "5"
+		title = "Uses"
+		url = "https://wiki.hjertnes.blog/uses/"
+	[[menu.main]]
+		identifier = "6"
+		title = "Wiki"
+		url = "https://wiki.hjertnes.blog/"
+	[[menu.main]]
+		identifier = "7"
+		title = "Subscribe"
+		url = "https://feedpress.me/hjertnes"
+	[[menu.main]]
+		identifier = "8"
+		title = "Archive"
+		url = "/archive/"
