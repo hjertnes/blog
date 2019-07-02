@@ -2,7 +2,6 @@
 title: "Advertisements."
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2014/06/28/Advertisements/136"
 type: "post"
 date: 2014-06-28T02:00:00+02:00
 ---

@@ -2,7 +2,6 @@
 title: "BrettTerpstra.com"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2015/05/30/BrettTerpstra/424"
 type: "post"
 date: 2015-05-30T02:00:00+02:00
 ---

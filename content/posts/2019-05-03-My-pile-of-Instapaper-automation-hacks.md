@@ -2,7 +2,6 @@
 title: "My pile of Instapaper automation hacks"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2019/05/03/My-pile-of-Instapaper-automation-hacks"
 type: "post"
 date: 2019-05-03T20:35:07+02:00
 ---

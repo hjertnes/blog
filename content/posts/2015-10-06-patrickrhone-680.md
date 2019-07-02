@@ -2,7 +2,6 @@
 title: "patrickrhone / journal  &raquo; Blog Archive   &raquo; Some Thoughts On Solitude"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2015/10/06/patrickrhone/680"
 type: "post"
 date: 2015-10-06T02:00:00+02:00
 ---

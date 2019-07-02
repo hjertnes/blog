@@ -2,7 +2,6 @@
 title: "Learning to use the Emacs keybindings"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2019/03/03/keybindings"
 type: "post"
 date: 2019-03-03T11:37:58+01:00
 ---

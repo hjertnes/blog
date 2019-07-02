@@ -2,7 +2,6 @@
 title: "Inforgraphic"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2015/01/29/Inforgraphic/276"
 type: "post"
 date: 2015-01-29T01:00:00+01:00
 ---

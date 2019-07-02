@@ -3,7 +3,6 @@ title: "Popsocket"
 author: ["Eivind Hjertnes"]
 draft: false
 type: "post"
-url: "/2019/05/19/popsocket"
 date: 2019-05-19T10:58:02+02:00
 ---
 

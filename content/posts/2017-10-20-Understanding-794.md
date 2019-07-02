@@ -2,7 +2,6 @@
 title: "Understanding ForEach"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2017/10/20/Understanding/794"
 type: "post"
 date: 2017-10-20T02:00:00+02:00
 ---

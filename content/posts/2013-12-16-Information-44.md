@@ -2,7 +2,6 @@
 title: "Information silos can be amazing."
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2013/12/16/Information/44"
 type: "post"
 date: 2013-12-16T01:00:00+01:00
 ---

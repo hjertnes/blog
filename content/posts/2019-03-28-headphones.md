@@ -2,7 +2,6 @@
 title: "Headphone setup"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2019/03/28/headphones"
 type: "post"
 date: 2019-03-28T20:02:53+01:00
 ---

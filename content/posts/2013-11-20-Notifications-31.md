@@ -2,7 +2,6 @@
 title: "Notifications."
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2013/11/20/Notifications/31"
 type: "post"
 date: 2013-11-20T01:00:00+01:00
 ---

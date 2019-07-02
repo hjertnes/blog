@@ -2,7 +2,6 @@
 title: "patrickrhone / journal  &raquo; Blog Archive   &raquo; Not All Introverts Are Quiet"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2015/10/08/patrickrhone/686"
 type: "post"
 date: 2015-10-08T02:00:00+02:00
 ---

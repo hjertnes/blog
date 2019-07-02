@@ -2,7 +2,6 @@
 title: "PinboardAdder"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2018/03/30/PinboardAdder/1257"
 type: "post"
 date: 2018-03-30T02:00:00+02:00
 ---

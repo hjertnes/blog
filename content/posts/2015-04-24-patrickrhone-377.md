@@ -2,7 +2,6 @@
 title: "patrickrhone / journal  &raquo; Blog Archive   &raquo; What Will You Be Remembered For"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2015/04/24/patrickrhone/377"
 type: "post"
 date: 2015-04-24T02:00:00+02:00
 ---

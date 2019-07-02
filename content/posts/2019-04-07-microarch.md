@@ -2,7 +2,6 @@
 title: "Micro arcitecture"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2019/04/07/microarch"
 type: "post"
 date: 2019-04-07T20:42:31+02:00
 ---

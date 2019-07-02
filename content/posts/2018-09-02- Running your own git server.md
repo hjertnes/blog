@@ -2,7 +2,6 @@
 title: "Running your own git server."
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2018/09/02/ Running your own git server./1585"
 type: "post"
 date: 2018-09-02T02:00:00+02:00
 ---

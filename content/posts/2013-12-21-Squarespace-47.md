@@ -2,7 +2,6 @@
 title: "Squarespace galleries, and their portfolio app."
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2013/12/21/Squarespace/47"
 type: "post"
 date: 2013-12-21T01:00:00+01:00
 ---

@@ -2,7 +2,6 @@
 title: "Skeptiholics Anonymous – Existential Comics"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2015/08/11/Skeptiholics/556"
 type: "post"
 date: 2015-08-11T02:00:00+02:00
 ---

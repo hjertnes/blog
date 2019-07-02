@@ -2,7 +2,6 @@
 title: "Netflix Originals"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2019/03/16/originals"
 type: "post"
 date: 2019-03-16T09:43:45+01:00
 ---

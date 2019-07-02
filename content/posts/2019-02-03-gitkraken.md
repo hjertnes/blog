@@ -2,7 +2,6 @@
 title: "Gitkraken"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2019/02/03/gitkraken"
 type: "post"
 date: 2019-02-03T13:49:21+01:00
 ---

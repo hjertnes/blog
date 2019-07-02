@@ -2,7 +2,6 @@
 title: "The Visual Studio Code Git Client"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2019/02/17/vscodegit"
 type: "post"
 date: 2019-02-17T18:06:06+01:00
 ---

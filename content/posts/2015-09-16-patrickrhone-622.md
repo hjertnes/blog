@@ -2,7 +2,6 @@
 title: "patrickrhone / journal  &raquo; Blog Archive   &raquo; Who are you in the future"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2015/09/16/patrickrhone/622"
 type: "post"
 date: 2015-09-16T02:00:00+02:00
 ---

@@ -2,7 +2,6 @@
 title: "Hypercritical"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2015/04/18/Hypercritical/361"
 type: "post"
 date: 2015-04-18T02:00:00+02:00
 ---

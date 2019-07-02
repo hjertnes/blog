@@ -2,7 +2,6 @@
 title: "Purchasing a new computer."
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2013/08/18/Purchasing/3"
 type: "post"
 date: 2013-08-18T02:00:00+02:00
 ---

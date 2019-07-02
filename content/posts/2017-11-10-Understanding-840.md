@@ -2,7 +2,6 @@
 title: "Understanding the difference between functions and arrow functions"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2017/11/10/Understanding/840"
 type: "post"
 date: 2017-11-10T01:00:00+01:00
 ---

@@ -2,7 +2,6 @@
 title: "Understanding find"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2017/10/17/Understanding/791"
 type: "post"
 date: 2017-10-17T02:00:00+02:00
 ---

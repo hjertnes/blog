@@ -2,7 +2,6 @@
 title: "Immutability"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2017/11/30/Immutability/886"
 type: "post"
 date: 2017-11-30T01:00:00+01:00
 ---

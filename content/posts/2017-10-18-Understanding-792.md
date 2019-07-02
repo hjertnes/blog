@@ -2,7 +2,6 @@
 title: "Understanding filter"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2017/10/18/Understanding/792"
 type: "post"
 date: 2017-10-18T02:00:00+02:00
 ---

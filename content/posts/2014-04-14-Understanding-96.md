@@ -2,7 +2,6 @@
 title: "Understanding yourself"
 author: ["Eivind Hjertnes"]
 draft: false
-url: "/2014/04/14/Understanding/96"
 type: "post"
 date: 2014-04-14T02:00:00+02:00
 ---
