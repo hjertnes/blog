@@ -9,6 +9,7 @@
 }
 img{
     max-width: 100%;
+    height: auto;
 }
 #___gatsby{
     min-height: 100vh;

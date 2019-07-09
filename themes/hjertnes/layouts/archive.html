@@ -1,0 +1,6 @@
+{{ partial "header.html" . }}
+	<main>
+		{{ range .Site.RegularPages }}
+			{{ partial "summary.html" . }}
+		{{ end }}
+	</main>
