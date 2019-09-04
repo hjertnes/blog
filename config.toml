@@ -11,7 +11,7 @@ rssLimit = 100
 	[[menu.main]]
 		identifier = "2"
 		title = "About"
-		url = "https://wiki.hjertnes.blog/about/"
+		url = "https://wiki.hjertnes.blog/about/me"
 	[[menu.main]]
 		identifier = "3"
 		title = "Contact"
