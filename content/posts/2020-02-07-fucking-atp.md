@@ -17,7 +17,7 @@ I don't listen to any tech podcasts anymore, because they bore me to death. The 
 -   There is plenty of good examples of good patterns to follow if you look at for example react.
 -   Even though three gumpy old rich white men don't think so, there are clean ways to use it
 -   I think John is the only one who gets it
--   Marco struggles with anything new, as always. He'll like a cobol programmer
+-   Marco struggles with anything new, as always. He is like a cobol programmer
 -   Homebrew
 -   Marco is all wrong.
 -   Homebrew works well most of the time, and things rarely break as long as you keep things up to date. It might be broken for a few days here and there. But I almost never experience it, and I upgrade my system multiple times a week.
