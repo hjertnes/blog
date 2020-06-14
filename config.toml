@@ -11,23 +11,23 @@ rssLimit = 100
 	[[menu.main]]
 		identifier = "2"
 		title = "About"
-		url = "https://wiki.hjertnes.blog/#about"
+		url = "https://hjertnes.wiki/#about"
 	[[menu.main]]
 		identifier = "3"
 		title = "Contact"
-		url = "https://wiki.hjertnes.blog/#contact"
+		url = "https://hjertnes.wiki/#contact"
 	[[menu.main]]
 		identifier = "4"
 		title = "Now"
-		url = "https://wiki.hjertnes.blog/#now"
+		url = "https://hjertnes.wiki/#now"
 	[[menu.main]]
 		identifier = "5"
 		title = "Uses"
-		url = "https://wiki.hjertnes.blog/#using"
+		url = "https://hjertnes.wiki/#using"
 	[[menu.main]]
 		identifier = "6"
 		title = "Wiki"
-		url = "https://wiki.hjertnes.blog/"
+		url = "https://hjertnes.wiki/"
 	[[menu.main]]
 		identifier = "7"
 		title = "Subscribe"
