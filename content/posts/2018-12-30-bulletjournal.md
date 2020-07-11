@@ -26,5 +26,3 @@ feels like a lot of pages, a lot of bullshit to sell my on the system.
 
 Agan, it is probably not for me. And I don't regret byuing the book, and
 I would buy it again.
-
-;;
