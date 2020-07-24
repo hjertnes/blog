@@ -1,10 +1,8 @@
 {{ partial "header.html" . }}
-<main>
-  <h1> {{ .Title }} </h1>
-<nav>
-	  {{ range sort .Pages ".Params.title" }}
-	    {{ partial "summary.html" . }}
+	<main>
+		{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
+		{{ range $paginator.Pages }}
+			{{ partial "summary.html" . }}
 		{{ end }}
-	  </nav>
-	  
+		{{ partial "pagination.html" . }}
 	</main>
