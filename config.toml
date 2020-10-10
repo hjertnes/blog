@@ -11,19 +11,11 @@ rssLimit = 100
 	[[menu.main]]
 		identifier = "2"
 		title = "About"
-		url = "https://hjertnes.wiki/#about"
-	[[menu.main]]
-		identifier = "3"
-		title = "Contact"
-		url = "https://hjertnes.wiki/#contact"
+		url = "/about"
 	[[menu.main]]
 		identifier = "4"
 		title = "Now"
-		url = "https://hjertnes.wiki/#now"
-	[[menu.main]]
-		identifier = "5"
-		title = "Uses"
-		url = "https://hjertnes.wiki/#using"
+		url = "/now"
 	[[menu.main]]
 		identifier = "6"
 		title = "Wiki"

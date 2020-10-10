@@ -16,6 +16,7 @@ header > h1 {
 article h2 {
     font-size: large;
 }
+
 :any-link:nth-of-type(5n+0){
     font-weight: 700;
     color: var(--yellow);
@@ -66,38 +67,3 @@ li:nth-of-type(5n+4) :any-link{
     font-weight: 700;
     color: var(--prime-color);
 }
-
-li{
-    list-style: none;
-}
-
-li:nth-of-type(5n+0) :before{
-    content: "— ";
-    text-indent: -5px;
-    color: var(--prime-color);
-}
-
-li:nth-of-type(5n+1) :before{
-    content: "— ";
-    text-indent: -5px;
-    color: var(--purple);
-}
-
-li:nth-of-type(5n+2) :before{
-    content: "— ";
-    text-indent: -5px;
-    color: var(--blue);
-}
-
-li:nth-of-type(5n+3) :before{
-    content: "— ";
-    text-indent: -5px;
-    color: var(--pink);
-}
-
-li:nth-of-type(5n+4) :before{
-    content: "— ";
-    text-indent: -5px;
-    color: var(--yellow);
-}
-
