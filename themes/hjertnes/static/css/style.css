@@ -1,69 +1,69 @@
 :root{
-    --prime-color: #464646;
---pink: #f012be;
---yellow: #ffb700;
---blue: #304ffe80;
---purple: #800080
+  --prime-color: #464646;
+  --pink: #f012be;
+  --yellow: #ffb700;
+  --blue: #304ffe80;
+  --purple: #800080
 }
 
 html {
-    font-family: 'Source Code Pro', monospace;
-    color: var(--prime-color);
+  font-family: 'Source Code Pro', monospace;
+  color: var(--prime-color);
 }
 header > h1 {
-    text-transform: capitalize;
+  text-transform: capitalize;
 }
 article h2 {
-    font-size: large;
+  font-size: large;
 }
 
 :any-link:nth-of-type(5n+0){
-    font-weight: 700;
-    color: var(--yellow);
+  font-weight: 700;
+  color: var(--yellow);
 }
 
 :any-link:nth-of-type(5n+1){
-    font-weight: 700;
-    color: var(--pink);
+  font-weight: 700;
+  color: var(--pink);
 }
 
 :any-link:nth-of-type(5n+2){
-    font-weight: 700;
-    color: var(--blue);
+  font-weight: 700;
+  color: var(--blue);
 }
 
 :any-link:nth-of-type(5n+3){
-    font-weight: 700;
-    color: var(--purple);
+  font-weight: 700;
+  color: var(--purple);
 }
 
 :any-link:nth-of-type(5n+4){
-    font-weight: 700;
-    color: var(--prime-color);
+  font-weight: 700;
+  color: var(--prime-color);
 }
 
 li:nth-of-type(5n+0) :any-link{
-    font-weight: 700;
-    color: var(--yellow);
+  font-weight: 700;
+  color: var(--yellow);
 }
 
 li:nth-of-type(5n+1) :any-link{
-    font-weight: 700;
-    color: var(--pink);
+  font-weight: 700;
+  color: var(--pink);
 }
 
 
 li:nth-of-type(5n+2) :any-link{
-    font-weight: 700;
-    color: var(--blue);
+  font-weight: 700;
+  color: var(--blue);
 }
 
 li:nth-of-type(5n+3) :any-link{
-    font-weight: 700;
-    color: var(--purple);
+  font-weight: 700;
+  color: var(--purple);
 }
 
 li:nth-of-type(5n+4) :any-link{
-    font-weight: 700;
-    color: var(--prime-color);
+  font-weight: 700;
+  color: var(--prime-color);
 }
