@@ -5,7 +5,7 @@
     <description>Recent content on hjertnes.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 09:30:30 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 23 Dec 2020 08:07:10 +0100</lastBuildDate>
     
         <atom:link href="https://hjertnes.blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>Posts</title>
       <link>https://hjertnes.blog/posts/</link>
-      <pubDate>Sat, 10 Oct 2020 09:30:30 +0200</pubDate>
+      <pubDate>Wed, 23 Dec 2020 08:07:10 +0100</pubDate>
       
       <guid>https://hjertnes.blog/posts/</guid>
       <description></description>
@@ -26,6 +26,42 @@
       
       <guid>https://hjertnes.blog/archive/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://hjertnes.blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjertnes.blog/about/</guid>
+      <description>&lt;p&gt;Welcome.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m Eivind, I live right outside Bergen, Norway with my dog, girlfriend and daughter. My day job is working as a web developer; usually switching between front and back end. Currently for Sbanken, I&amp;rsquo;ll be joining Knowit Experience in a few weeks.&lt;/p&gt;
+&lt;p&gt;This blog used to be a lot bigger, then I migrated it over to a wiki, then that to roam and now I have moved over to org-roam and it isn&amp;rsquo;t a public version of it. I hope to make that happen soon. But that might not happen any time soon. So I&amp;rsquo;ll start writing more here or copy some stuff out of my wiki and publish it here.&lt;/p&gt;
+&lt;p&gt;When I&amp;rsquo;m not coding React and C# at work, I like to write in emacs, take pictures, hang out with my little family or code in Golang or Svelte. Online I usually hang out on IRC(freenode and tilde.town) or Mastodon.&lt;/p&gt;
+&lt;p&gt;Some stuff I may write about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming: clean code, c#, javascript, golang, emacs etc&lt;/li&gt;
+&lt;li&gt;Stationary: pen, paper, pencils, fountain pens, ink etc&lt;/li&gt;
+&lt;li&gt;I post a bunch of links (usually 50 each time) every week&lt;/li&gt;
+&lt;li&gt;Other stuff: photography&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Now</title>
+      <link>https://hjertnes.blog/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjertnes.blog/now/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Working for Sbanken, building web apps for making banking for small companies awesome&lt;/li&gt;
+&lt;li&gt;Been working on a bookmarking service for a while. Might be getting close to something usable soon&lt;/li&gt;
+&lt;li&gt;Trying to loose some weight; currently lost 16KG since May.&lt;/li&gt;
+&lt;li&gt;Writing a lot in my personal wiki in org-roam&lt;/li&gt;
+&lt;li&gt;Trying to make as much time as possible for hanging out with my girlfriend, dog and daughter.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

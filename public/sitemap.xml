@@ -3,17 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hjertnes.blog/</loc>
-    <lastmod>2020-10-10T09:30:30+02:00</lastmod>
+    <loc>https://hjertnes.blog/posts/2020-12-23-cup/</loc>
+    <lastmod>2020-12-23T08:07:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hjertnes.blog/posts/2020-10-10-likes/</loc>
-    <lastmod>2020-10-10T09:30:30+02:00</lastmod>
+    <loc>https://hjertnes.blog/</loc>
+    <lastmod>2020-12-23T08:07:10+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://hjertnes.blog/posts/</loc>
+    <lastmod>2020-12-23T08:07:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-12-22-baking/</loc>
+    <lastmod>2020-12-22T07:01:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-12-21-blogging/</loc>
+    <lastmod>2020-12-21T06:05:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-12-18-likes/</loc>
+    <lastmod>2020-12-18T07:58:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-12-11-likes/</loc>
+    <lastmod>2020-12-11T20:24:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-12-04-likes/</loc>
+    <lastmod>2020-12-04T20:46:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-11-20-likes/</loc>
+    <lastmod>2020-11-20T18:49:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-11-13-likes/</loc>
+    <lastmod>2020-11-13T21:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-11-08-wiki/</loc>
+    <lastmod>2020-11-08T09:08:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-11-06-likes/</loc>
+    <lastmod>2020-11-06T21:34:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-11-01-wiki/</loc>
+    <lastmod>2020-11-01T19:14:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-10-31-likes/</loc>
+    <lastmod>2020-10-31T09:14:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-10-25-wiki/</loc>
+    <lastmod>2020-10-25T18:55:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-10-23-likes/</loc>
+    <lastmod>2020-10-23T17:34:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-10-16-jobs/</loc>
+    <lastmod>2020-10-16T19:52:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-10-16-likes/</loc>
+    <lastmod>2020-10-16T19:39:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-10-10-blogging/</loc>
+    <lastmod>2020-10-10T19:58:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/posts/2020-10-10-likes/</loc>
     <lastmod>2020-10-10T09:30:30+02:00</lastmod>
   </url>
   
@@ -237,7 +322,15 @@
   </url>
   
   <url>
+    <loc>https://hjertnes.blog/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://hjertnes.blog/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hjertnes.blog/now/</loc>
   </url>
   
   <url>
