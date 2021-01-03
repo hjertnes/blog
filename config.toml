@@ -19,7 +19,7 @@ rssLimit = 100
 	[[menu.main]]
 		identifier = "6"
 		title = "Wiki"
-		url = "https://hjertnes.wiki/"
+		url = "https://wiki.hjertnes.website/"
 	[[menu.main]]
 		identifier = "7"
 		title = "Subscribe"
