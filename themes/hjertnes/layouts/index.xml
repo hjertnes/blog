@@ -16,7 +16,7 @@
     <item>
       <title>
 
-		      	{{ if not (eq .Title "Blog")}}{{.Title}}{{ end }}
+		      	{{ if not (eq .Title "")}}{{.Title}}{{ end }}
 
       </title>
       <link>{{ .Permalink }}</link>
