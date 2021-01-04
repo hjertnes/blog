@@ -28,7 +28,3 @@ rssLimit = 100
 		identifier = "7"
 		title = "Subscribe"
 		url = "https://feedpress.me/hjertnes"
-	[[menu.main]]
-		identifier = "8"
-		title = "Archive"
-		url = "/archive/"
