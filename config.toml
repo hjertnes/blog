@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "blog.hjertnes.website"
+title = "Hjertnes' blog"
 theme = "hjertnes"
 baseUrl = "https://blog.hjertnes.website/"
 rssLimit = 100
