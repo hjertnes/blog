@@ -13,9 +13,13 @@ rssLimit = 100
 		title = "About"
 		url = "/about"
 	[[menu.main]]
-		identifier = "4"
+		identifier = "3"
 		title = "Now"
 		url = "/now"
+	[[menu.main]]
+		identifier = "4"
+		title = "Colophon"
+		url = "/colophon"                
 	[[menu.main]]
 		identifier = "6"
 		title = "Wiki"
