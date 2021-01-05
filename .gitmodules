@@ -1,0 +1,3 @@
+[submodule "themes/hjertnes"]
+	path = themes/hjertnes
+	url = git@github.com:hjertnes/hugo-theme-hjertnes.git
