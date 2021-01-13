@@ -18,6 +18,10 @@ rssLimit = 100
 		url = "/now"
 	[[menu.main]]
 		identifier = "4"
+		title = "Using"
+		url = "/using"                
+	[[menu.main]]
+		identifier = "5"
 		title = "Colophon"
 		url = "/colophon"                
 	[[menu.main]]
