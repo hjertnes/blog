@@ -1,8 +1,8 @@
 ---
-date: "2021-01-13T20:43:46+01:00"
+date: "2021-01-14T10:00:14+01:00"
 title: "Intentions for 2021"
 type: "post"
---
+---
 
 - Continue loosing weight
 - Don't contribute to things that make things worse
