@@ -1,5 +1,6 @@
 ---
 title: Using
+---
 # Hardware
 - MacBook "Escape" with 512 GB SSD and 16GB memory
 - MacBook Pro 16" with 512 GB SSD and 32GB memory (work laptop)
